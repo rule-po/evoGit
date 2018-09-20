@@ -15,6 +15,7 @@ int main()
     printf("Sum = %d", sum);
     
     return 0;
+    // Testovksi
 }
 
 int sum(int a, int b)
