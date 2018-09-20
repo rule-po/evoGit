@@ -15,6 +15,7 @@ int main()
     printf("Sum = %d", sum);
     
     return 0;
+    // Testovksi
 }
 
 //This is sum function
@@ -35,4 +36,8 @@ int mul(int a, int b)
 
 int div(int a, int b){
     return a / b;
+}
+
+int mojaSuperNovaMetoda(int a, int b){
+    return a % b;
 }
