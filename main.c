@@ -17,6 +17,7 @@ int main()
     return 0;
 }
 
+//This is sum function
 int sum(int a, int b)
 {
     return a + b;
